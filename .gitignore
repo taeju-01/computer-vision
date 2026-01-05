@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
+java_error_in_pycharm_*.log
