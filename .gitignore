@@ -1,13 +1,16 @@
-# IDE
-.idea/
-*.iml
+# datasets / outputs
+Hard-Hat-Workers-1/
+datasets/
+runs/
+*.cache
 
-# Python
+# python / notebooks
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
 
-# OS / logs
+# secrets
+.env
+
+# OS
 .DS_Store
-Thumbs.db
-*.log
-java_error_in_pycharm_*.log
